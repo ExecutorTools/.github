@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ExecutorTools/.github/main/profile/banner.jpg" alt="Roblox Executor Tools for Windows" width="100%">
+<img src="https://raw.githubusercontent.com/ExecutorTools/.github/main/profile/banner-v2.jpg" alt="Roblox Executor Tools for Windows" width="100%">
 
 # Roblox Executor Tools
 
@@ -11,7 +11,7 @@
 
 No key checkpoints, no linkvertise mazes, no fifteen-minute waits. This build attaches in seconds and runs the scripts people actually use — hubs, autofarms, ESP and admin panels — with a clean editor and a built-in script library.
 
-<img src="https://raw.githubusercontent.com/ExecutorTools/.github/main/profile/preview.jpg" alt="Executor interface with script editor" width="100%">
+<img src="https://raw.githubusercontent.com/ExecutorTools/.github/main/profile/preview-v2.jpg" alt="Executor interface with script editor" width="100%">
 
 ## What it runs
 
